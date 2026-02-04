@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# DataLad/Git-annex
+.datalad/
+ds000102/
+*.nii.gz
+*.nii
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files
+*.png
+*.jpg
+*.pdf
+fmri_data_exploration.png
+image_registration.png
+
+# Temporary files
+*.log
+*.tmp
