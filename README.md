@@ -8,7 +8,7 @@ This project provides a complete educational implementation of fMRI analysis usi
 
 ## 🎯 Features
 
-- **9 Complete Tutorials** covering the entire fMRI analysis pipeline
+- **Complete Tutorials** covering the entire fMRI analysis pipeline
 - **Real fMRI Data** from OpenNeuro (26 subjects, Flanker task)
 - **Publication-Quality Visualizations** for every analysis step
 - **Detailed Explanations** of statistical and neuroimaging concepts
@@ -161,14 +161,6 @@ After completing these tutorials, you will understand:
 6. **Group Analysis**: Combining data across subjects for population inference
 7. **ROI Analysis**: Extracting and analyzing signals from specific brain regions
 
-## 🎓 Educational Use
-
-This project is designed for:
-- **Students** learning neuroimaging analysis
-- **Researchers** transitioning from MATLAB SPM to Python
-- **Educators** teaching fMRI analysis concepts
-- **Anyone** interested in understanding how brain imaging analysis works
-
 ## 📝 Notes
 
 - This implementation uses Python to simulate SPM concepts rather than calling MATLAB SPM directly
@@ -184,19 +176,6 @@ Contributions are welcome! Please feel free to submit issues or pull requests to
 
 This project is provided for educational purposes. The OpenNeuro dataset ds000102 has its own license terms.
 
-## 🙏 Acknowledgments
-
-- **OpenNeuro** for providing open-access neuroimaging datasets
-- **DataLad** team for distributed data management tools
-- **SPM** developers for pioneering neuroimaging analysis methods
-- **Nilearn** and **NiBabel** communities for neuroimaging Python tools
-
 ## 📧 Contact
 
 For questions or feedback about these tutorials, please open an issue in this repository.
-
----
-
-**Last Updated**: February 2026
-
-**Status**: ✅ All 9 tutorials complete with full implementations and visualizations
