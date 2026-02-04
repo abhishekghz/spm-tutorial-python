@@ -31,12 +31,22 @@ ds000102/
 *.swo
 *~
 
-# Output files
-*.png
+# Output files - exclude result images (we want to track these)
+# *.png (commented out to track result images)
 *.jpg
 *.pdf
-fmri_data_exploration.png
-image_registration.png
+
+# Keep these result images in git
+!flanker_task_design.png
+!behavioral_analysis.png
+!fmri_data_exploration.png
+!glm_design_matrix.png
+!glm_results.png
+!batch_processing_summary.png
+!group_analysis_results.png
+!image_registration.png
+!preprocessing_effects.png
+!roi_analysis_results.png
 
 # Temporary files
 *.log
